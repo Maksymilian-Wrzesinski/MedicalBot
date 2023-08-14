@@ -1,0 +1,9 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\bin\Debug\MedicalBotBob.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\bin\Debug\MedicalBotBob.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\bin\Debug\Patient.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\bin\Debug\Patient.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\obj\Debug\MedicalBotBob.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\obj\Debug\MedicalBotBob.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\obj\Debug\MedicalBotBob.csproj.CopyComplete
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\obj\Debug\MedicalBotBob.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBotBob\obj\Debug\MedicalBotBob.pdb

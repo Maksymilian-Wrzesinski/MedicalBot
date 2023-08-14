@@ -1,0 +1,13 @@
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\MedicalBot.exe.config
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\MedicalBot.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\MedicalBot.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\MedicalBotBob.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\Patient.dll
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\MedicalBotBob.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\bin\Debug\Patient.pdb
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.CopyComplete
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.exe
+C:\Users\andre\Documents\CSHARP\BankingProject\Zadania\MedicalBot\MedicalBot\obj\Debug\MedicalBot.pdb
